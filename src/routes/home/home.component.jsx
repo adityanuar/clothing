@@ -1,5 +1,5 @@
-import "../../../App.css";
-import Directory from "../../../components/directory/directory.component";
+import "../../App.css";
+import Directory from "../../components/directory/directory.component";
 import { Outlet } from "react-router-dom";
 
 const Home = () => {
